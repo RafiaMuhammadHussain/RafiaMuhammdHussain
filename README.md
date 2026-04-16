@@ -34,6 +34,8 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rafia-muhammad-hussain-69026b396)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RafiaMuhammadHussain)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)]([https://facebook.com/yourprofile](https://www.facebook.com/share/1JnAE7wgQs/))
 
 ---
 
